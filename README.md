@@ -6,5 +6,5 @@ Iframes enable you to embed content from other sources (websites) onto your webp
 
 This script scans the target website for missing headers on the Server-side. 
 Basicaly, the tool will create a PoC screenshot on your desktop in case of a successful exploit. 
-All you need is to run script as follows: ```$ bash ClinkyWinky.sh <URL>```.
+All you need is to run script as follows: ```$ bash Clinky.sh <URL>```.
 
