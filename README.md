@@ -1,4 +1,4 @@
-# ClinkyWinky
+# Clinky
 Clickjacking is an online attack that tricks a victim into clicking something other than what they intended without realizing it.
 In most cases, an attacker will craft a legitimate-looking website and embed a malicious or legitimate website in an invisible iframe.
 The iframe is invisible, so the malicious site isn’t visible and the victim only sees the legitimate-looking site.
