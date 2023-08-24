@@ -1,6 +1,6 @@
 #!/bin/bash
 
-[ -z "$1" ] && echo 'Usage: bash ClinkyWinky.sh <URL>' && exit 0
+[ -z "$1" ] && echo 'Usage: bash Clinky.sh <URL>' && exit 0
 
 url=$1
 
